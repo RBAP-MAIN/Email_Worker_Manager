@@ -1,4 +1,4 @@
-name = "Email_Worker_Manager"
+name = "email_worker_manager"
 main = "src/index.js"
 compatibility_date = "2022-12-05"
 usage_model = "unbound"
